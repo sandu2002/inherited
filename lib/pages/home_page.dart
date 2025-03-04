@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
       body:
       Center(child:
         Text(
-          "Home Page"
+          "User Names"
         ),
       ),
     );
